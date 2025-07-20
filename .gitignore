@@ -1,3 +1,5 @@
 data/sample_actuals.csv
 data/sample_forecasts.csv
 data/weather_postal_code.csv
+data/
+results/
